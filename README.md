@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Joshua-Ean-Valera
+# 👋 Hi, I’m Joshua Ean C. Valera
 
 - 👀 I’m interested in web development, AI, open source projects, and networking—especially hands-on physical networking like network cabling and infrastructure.
 - 🌱 I’m currently learning Data analytics and machine learning.
